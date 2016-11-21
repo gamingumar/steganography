@@ -1,0 +1,48 @@
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe.config
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.pdb
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csprojResolveAssemblyReference.cache
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Form1.resources
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Properties.Resources.resources
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csproj.GenerateResource.Cache
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.exe
+c:\users\umar\documents\visual studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.pdb
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Form1.resources
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Properties.Resources.resources
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csproj.GenerateResource.Cache
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe.config
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.pdb
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.exe
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.pdb
+C:\Users\gaming\Documents\Visual Studio 2013\Projects\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe.config
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.exe
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.pdb
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.pdb
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Form1.resources
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Properties.Resources.resources
+C:\Users\UmaR\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csproj.GenerateResource.Cache
+D:\[GUS_Atom]\AIR University BSCS\Semester 6\Digital Image Processing\ASG 2\v1.4\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe.config
+D:\[GUS_Atom]\AIR University BSCS\Semester 6\Digital Image Processing\ASG 2\v1.4\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.exe
+D:\[GUS_Atom]\AIR University BSCS\Semester 6\Digital Image Processing\ASG 2\v1.4\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.pdb
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe.config
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.exe
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.pdb
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.pdb
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csprojResolveAssemblyReference.cache
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Form1.resources
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Properties.Resources.resources
+C:\Users\umara\Desktop\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csproj.GenerateResource.Cache
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe.config
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.exe
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.pdb
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.exe
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\bin\Debug\DIPAsg2.pdb
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csprojResolveAssemblyReference.cache
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Form1.resources
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.Properties.Resources.resources
+C:\Users\umara\Desktop\Steganography\DIPAsg2\DIPAsg2\obj\Debug\DIPAsg2.csproj.GenerateResource.Cache
